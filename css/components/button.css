@@ -1,0 +1,21 @@
+.btn-yellow{
+  background-color:#F9AB55;
+  color: white ;
+  padding: 15px 20px;
+  border-radius: 5px; 
+}
+.btn-yellow:hover{
+   background-color: #A5B452 ;
+   color: white;
+}
+a{
+   text-decoration:none;
+   color: #F9AB55;   
+   font-family:"Montserrat", sans-serif;
+   font-weight: bold;
+   transition: color 0.3s ease;
+}
+a:hover{
+   color:#A5B452;
+}
+
